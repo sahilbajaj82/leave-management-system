@@ -5,6 +5,7 @@
 - Bootstrap 
 - VueJs
 
+The report is present in the `./doc` directory.
 # Setup
 
 To setup the environment 
