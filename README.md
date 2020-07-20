@@ -12,13 +12,15 @@ To setup the environment
 
 - Setup a virtual environment using `virtualenv` and activate it.
 
-- Run the `python environment.py` file to setup the environment variables present in `.env` file.
+- ~~Run the `python environment.py` file to setup the environment variables
+ present in `.env` file or~~ run the `setup.sh` script to set the environment
+  variable.
 - Use `pip install requirement.txt` for installing the required libs.
 
 # Running 
 
 - To start the server use `flask run` command. (The server will runt in development mode)
-- Visit $$http://127.0.0.1:5000/$$ you will be greeted with a sign-in page.
+- Visit `http://127.0.0.1:5000/` you will be greeted with a sign-in page.
 
 # Basics
 
