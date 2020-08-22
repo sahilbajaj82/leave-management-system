@@ -50,9 +50,10 @@ To setup the environment
 
 # Upcoming Enhancement
 
-- Image in profile page
 - Email verification
-- More types of leave
 - Support for notifications and badges
+- Image in profile page
+- More types of leave
+
 
 
