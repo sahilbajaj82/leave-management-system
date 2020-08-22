@@ -1,3 +1,4 @@
+The Updated Repo is on https://gitlab.com/Vksnh/leave-management-system
 # Tech Stack
 
 - Flask
